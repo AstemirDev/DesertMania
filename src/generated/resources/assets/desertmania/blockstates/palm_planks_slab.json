@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "desertmania:block/palm_planks_slab"
+    },
+    "type=double": {
+      "model": "desertmania:block/palm_planks"
+    },
+    "type=top": {
+      "model": "desertmania:block/palm_planks_slab_top"
+    }
+  }
+}

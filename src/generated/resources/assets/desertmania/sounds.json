@@ -1,0 +1,249 @@
+{
+  "block.loess.break": {
+    "sounds": [
+      "desertmania:block/loess/break1",
+      "desertmania:block/loess/break2",
+      "desertmania:block/loess/break3",
+      "desertmania:block/loess/break4"
+    ]
+  },
+  "block.loess.place": {
+    "sounds": [
+      "desertmania:block/loess/place1",
+      "desertmania:block/loess/place2",
+      "desertmania:block/loess/place3",
+      "desertmania:block/loess/place4",
+      "desertmania:block/loess/place5"
+    ]
+  },
+  "block.loess.step": {
+    "sounds": [
+      "desertmania:block/loess/step1",
+      "desertmania:block/loess/step2",
+      "desertmania:block/loess/step3",
+      "desertmania:block/loess/step4"
+    ]
+  },
+  "entity.camel.death": {
+    "sounds": [
+      "desertmania:entity/camel/death1",
+      "desertmania:entity/camel/death2"
+    ]
+  },
+  "entity.camel.hurt": {
+    "sounds": [
+      "desertmania:entity/camel/hurt1",
+      "desertmania:entity/camel/hurt2",
+      "desertmania:entity/camel/hurt3",
+      "desertmania:entity/camel/hurt4"
+    ]
+  },
+  "entity.camel.idle": {
+    "sounds": [
+      "desertmania:entity/camel/ambient1",
+      "desertmania:entity/camel/ambient2",
+      "desertmania:entity/camel/ambient3",
+      "desertmania:entity/camel/ambient4",
+      "desertmania:entity/camel/ambient5",
+      "desertmania:entity/camel/ambient6",
+      "desertmania:entity/camel/ambient7",
+      "desertmania:entity/camel/ambient8"
+    ]
+  },
+  "entity.camel.step": {
+    "sounds": [
+      "desertmania:entity/camel/step1",
+      "desertmania:entity/camel/step2",
+      "desertmania:entity/camel/step3",
+      "desertmania:entity/camel/step4",
+      "desertmania:entity/camel/step5",
+      "desertmania:entity/camel/step6"
+    ]
+  },
+  "entity.camel.step_sand": {
+    "sounds": [
+      "desertmania:entity/camel/step_sand1",
+      "desertmania:entity/camel/step_sand2",
+      "desertmania:entity/camel/step_sand3",
+      "desertmania:entity/camel/step_sand4",
+      "desertmania:entity/camel/step_sand5",
+      "desertmania:entity/camel/step_sand6"
+    ]
+  },
+  "entity.desert_worm.death": {
+    "sounds": [
+      "desertmania:entity/desert_worm/death"
+    ]
+  },
+  "entity.desert_worm.dig": {
+    "sounds": [
+      "desertmania:entity/desert_worm/dig"
+    ]
+  },
+  "entity.desert_worm.growl": {
+    "sounds": [
+      "desertmania:entity/desert_worm/growl0",
+      "desertmania:entity/desert_worm/growl1"
+    ]
+  },
+  "entity.desert_worm.hurt": {
+    "sounds": [
+      "desertmania:entity/desert_worm/hurt0",
+      "desertmania:entity/desert_worm/hurt1",
+      "desertmania:entity/desert_worm/hurt2"
+    ]
+  },
+  "entity.desert_worm.stun": {
+    "sounds": [
+      "desertmania:entity/desert_worm/stun"
+    ]
+  },
+  "entity.fenick.death": {
+    "sounds": [
+      "desertmania:entity/fenick/death1",
+      "desertmania:entity/fenick/death2"
+    ]
+  },
+  "entity.fenick.hurt": {
+    "sounds": [
+      "desertmania:entity/fenick/hurt1",
+      "desertmania:entity/fenick/hurt2",
+      "desertmania:entity/fenick/hurt3"
+    ]
+  },
+  "entity.fenick.laugh": {
+    "sounds": [
+      "desertmania:entity/fenick/laugh1",
+      "desertmania:entity/fenick/laugh2",
+      "desertmania:entity/fenick/laugh3",
+      "desertmania:entity/fenick/laugh4"
+    ]
+  },
+  "entity.fenick.trade": {
+    "sounds": [
+      "desertmania:entity/fenick/trade"
+    ]
+  },
+  "entity.meerkat.death": {
+    "sounds": [
+      "desertmania:entity/meerkat/death0",
+      "desertmania:entity/meerkat/death1"
+    ]
+  },
+  "entity.meerkat.hurt": {
+    "sounds": [
+      "desertmania:entity/meerkat/hurt0",
+      "desertmania:entity/meerkat/hurt1",
+      "desertmania:entity/meerkat/hurt2",
+      "desertmania:entity/meerkat/hurt3"
+    ]
+  },
+  "entity.meerkat.idle": {
+    "sounds": [
+      "desertmania:entity/meerkat/idle0",
+      "desertmania:entity/meerkat/idle1",
+      "desertmania:entity/meerkat/idle2",
+      "desertmania:entity/meerkat/idle3",
+      "desertmania:entity/meerkat/idle4",
+      "desertmania:entity/meerkat/idle5",
+      "desertmania:entity/meerkat/idle6"
+    ]
+  },
+  "entity.scarab.fly": {
+    "sounds": [
+      "desertmania:entity/scarab/fly0",
+      "desertmania:entity/scarab/fly1",
+      "desertmania:entity/scarab/fly2",
+      "desertmania:entity/scarab/fly3",
+      "desertmania:entity/scarab/fly4",
+      "desertmania:entity/scarab/fly5",
+      "desertmania:entity/scarab/fly6"
+    ]
+  },
+  "entity.scarab.step": {
+    "sounds": [
+      "desertmania:entity/scarab/step1",
+      "desertmania:entity/scarab/step2",
+      "desertmania:entity/scarab/step3",
+      "desertmania:entity/scarab/step4",
+      "desertmania:entity/scarab/step5",
+      "desertmania:entity/scarab/step6"
+    ]
+  },
+  "entity.scarab_lord.death": {
+    "sounds": [
+      "desertmania:entity/scarab_lord/death"
+    ]
+  },
+  "entity.scarab_lord.hurt": {
+    "sounds": [
+      "desertmania:entity/scarab_lord/hurt"
+    ]
+  },
+  "entity.scarab_lord.idle": {
+    "sounds": [
+      "desertmania:entity/scarab_lord/idle1",
+      "desertmania:entity/scarab_lord/idle2",
+      "desertmania:entity/scarab_lord/idle3",
+      "desertmania:entity/scarab_lord/idle4"
+    ]
+  },
+  "entity.scarab_lord.life_steal": {
+    "sounds": [
+      "desertmania:entity/scarab_lord/life_steal"
+    ]
+  },
+  "entity.scarab_lord.scream": {
+    "sounds": [
+      "desertmania:entity/scarab_lord/scream"
+    ]
+  },
+  "entity.scarab_lord.step": {
+    "sounds": [
+      "desertmania:entity/scarab_lord/step1",
+      "desertmania:entity/scarab_lord/step2",
+      "desertmania:entity/scarab_lord/step3"
+    ]
+  },
+  "entity.scorpion.ambient": {
+    "sounds": [
+      "desertmania:entity/scorpion/ambient_0",
+      "desertmania:entity/scorpion/ambient_1",
+      "desertmania:entity/scorpion/ambient_2"
+    ]
+  },
+  "entity.scorpion.death": {
+    "sounds": [
+      "desertmania:entity/scorpion/death"
+    ]
+  },
+  "entity.scorpion.hurt": {
+    "sounds": [
+      "desertmania:entity/scorpion/ambient_0",
+      "desertmania:entity/scorpion/ambient_1",
+      "desertmania:entity/scorpion/ambient_2"
+    ]
+  },
+  "generic.sandstorm.loop": {
+    "sounds": [
+      "desertmania:generic/sandstorm_loop"
+    ]
+  },
+  "item.scimitar.block": {
+    "sounds": [
+      "desertmania:item/block"
+    ]
+  },
+  "item.scimitar.whirl": {
+    "sounds": [
+      "desertmania:item/whirl0",
+      "desertmania:item/whirl1",
+      "desertmania:item/whirl2"
+    ]
+  },
+  "music.records.desertmania": {
+    "sounds": [
+      "desertmania:music/desertmania"
+    ]
+  }
+}

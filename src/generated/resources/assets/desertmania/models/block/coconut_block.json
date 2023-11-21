@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "desertmania:block/coconut_block_top",
+    "side": "desertmania:block/coconut_block"
+  }
+}

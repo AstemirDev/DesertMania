@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "desertmania:palm_planks"
+    },
+    "-": {
+      "item": "desertmania:palm_planks_slab"
+    }
+  },
+  "pattern": [
+    "# #",
+    "# #",
+    "---"
+  ],
+  "result": {
+    "item": "desertmania:basket"
+  }
+}

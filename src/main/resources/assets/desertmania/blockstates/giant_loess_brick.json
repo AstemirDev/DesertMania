@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=down,paired=false":  { "model": "desertmania:block/giant_loess_brick/half"},
+    "facing=up,paired=false":    { "model": "desertmania:block/giant_loess_brick/half"},
+    "facing=north,paired=false": { "model": "desertmania:block/giant_loess_brick/half"},
+    "facing=south,paired=false": { "model": "desertmania:block/giant_loess_brick/half"},
+    "facing=west,paired=false":  { "model": "desertmania:block/giant_loess_brick/half"},
+    "facing=east,paired=false":  { "model": "desertmania:block/giant_loess_brick/half"},
+    "facing=down,paired=true":  { "model": "desertmania:block/giant_loess_brick/top"},
+    "facing=up,paired=true":    { "model": "desertmania:block/giant_loess_brick/bottom"},
+    "facing=north,paired=true": { "model": "desertmania:block/giant_loess_brick/north"},
+    "facing=south,paired=true": { "model": "desertmania:block/giant_loess_brick/south"},
+    "facing=west,paired=true":  { "model": "desertmania:block/giant_loess_brick/west"},
+    "facing=east,paired=true":  { "model": "desertmania:block/giant_loess_brick/east"}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "dirt": "desertmania:block/oasis_dirt",
+    "top": "desertmania:block/oasis_farmland"
+  }
+}

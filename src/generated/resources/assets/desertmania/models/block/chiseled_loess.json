@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "desertmania:block/cut_loess",
+    "side": "desertmania:block/chiseled_loess"
+  }
+}

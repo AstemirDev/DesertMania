@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "desertmania:block/palm_planks",
+    "side": "desertmania:block/palm_planks",
+    "top": "desertmania:block/palm_planks"
+  }
+}

@@ -1,0 +1,99 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.custom_model",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "model",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "head",
+					"parent": "model",
+					"pivot": [0, 7, -8],
+					"cubes": [
+						{"origin": [-2, 4, -17], "size": [4, 3, 4], "uv": [0, 0]},
+						{"origin": [-5, 4, -13], "size": [10, 7, 5], "uv": [0, 32]}
+					]
+				},
+				{
+					"name": "ear2",
+					"parent": "head",
+					"pivot": [2, 11, -10]
+				},
+				{
+					"name": "cube_r1",
+					"parent": "ear2",
+					"pivot": [2, 11, -10],
+					"rotation": [0, 0, 22.50005],
+					"cubes": [
+						{"origin": [2, 11, -10], "size": [5, 5, 1], "uv": [30, 32], "mirror": true}
+					]
+				},
+				{
+					"name": "ear1",
+					"parent": "head",
+					"pivot": [-2, 11, -10]
+				},
+				{
+					"name": "cube_r2",
+					"parent": "ear1",
+					"pivot": [-2, 11, -10],
+					"rotation": [0, 0, -22.50005],
+					"cubes": [
+						{"origin": [-7, 11, -10], "size": [5, 5, 1], "uv": [30, 32]}
+					]
+				},
+				{
+					"name": "leg1",
+					"parent": "model",
+					"pivot": [-4.5, 4, -5.5],
+					"cubes": [
+						{"origin": [-6, 0, -7], "size": [3, 4, 3], "uv": [0, 7]}
+					]
+				},
+				{
+					"name": "leg2",
+					"parent": "model",
+					"pivot": [4.5, 4, -5.5],
+					"cubes": [
+						{"origin": [3, 0, -7], "size": [3, 4, 3], "uv": [0, 7]}
+					]
+				},
+				{
+					"name": "leg3",
+					"parent": "model",
+					"pivot": [-4.5, 4, 5.5],
+					"cubes": [
+						{"origin": [-6, 0, 4], "size": [3, 4, 3], "uv": [0, 7]}
+					]
+				},
+				{
+					"name": "leg4",
+					"parent": "model",
+					"pivot": [4.5, 4, 5.5],
+					"cubes": [
+						{"origin": [3, 0, 4], "size": [3, 4, 3], "uv": [0, 7]}
+					]
+				},
+				{
+					"name": "body",
+					"parent": "model",
+					"pivot": [0, 12, 0],
+					"cubes": [
+						{"origin": [-8, 4, -8], "size": [16, 16, 16], "inflate": 0.25, "uv": [64, 0]},
+						{"origin": [-8, 4, -8], "size": [16, 16, 16], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

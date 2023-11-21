@@ -1,0 +1,11 @@
+{
+  "parent": "desertmania:block/giant_brick/bottom",
+  "textures": {
+    "particle": "desertmania:block/giant_loess_brick_half",
+    "half": "desertmania:block/giant_loess_brick_half",
+    "left": "desertmania:block/giant_loess_brick_left",
+    "right": "desertmania:block/giant_loess_brick_right",
+    "bottom": "desertmania:block/giant_loess_brick_bottom",
+    "top": "desertmania:block/giant_loess_brick_top"
+  }
+}

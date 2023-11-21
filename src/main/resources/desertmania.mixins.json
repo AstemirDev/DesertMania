@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.astemir.desertmania.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "desertmania.refmap.json",
+  "mixins": [
+    "common.MixinCreativeModeTab",
+    "common.MixinPlayer",
+    "common.MixinLivingEntity",
+    "common.MixinServerLevel",
+    "common.MixinCropBlock"
+  ],
+  "client": [
+    "client.MixinPostPass",
+    "client.MixinGui",
+    "client.MixinClientLevel",
+    "client.MixinLivingEntityRenderer",
+    "client.MixinParticleEngine"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

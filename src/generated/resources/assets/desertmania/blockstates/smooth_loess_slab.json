@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "desertmania:block/smooth_loess_slab"
+    },
+    "type=double": {
+      "model": "desertmania:block/smooth_loess"
+    },
+    "type=top": {
+      "model": "desertmania:block/smooth_loess_slab_top"
+    }
+  }
+}

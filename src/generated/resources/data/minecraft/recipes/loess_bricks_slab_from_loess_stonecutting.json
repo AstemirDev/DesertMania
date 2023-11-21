@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "desertmania:loess"
+  },
+  "result": "desertmania:loess_bricks_slab"
+}

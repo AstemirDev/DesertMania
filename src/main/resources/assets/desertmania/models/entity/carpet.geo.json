@@ -1,0 +1,64 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "carpet",
+					"pivot": [0, 0, 0.5],
+					"cubes": [
+						{"origin": [-13.5, 0, -8], "size": [27, 1, 17], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "carpet2",
+					"parent": "carpet",
+					"pivot": [0, 0.5, -8],
+					"cubes": [
+						{"origin": [-13.5, 0, -14], "size": [27, 1, 6], "uv": [0, 29]}
+					]
+				},
+				{
+					"name": "bend",
+					"parent": "carpet2",
+					"pivot": [0.5, 0.5, -14.5],
+					"cubes": [
+						{"origin": [-13.5, 0, -18], "size": [27, 1, 4], "uv": [0, 36]}
+					]
+				},
+				{
+					"name": "fringe2",
+					"parent": "bend",
+					"pivot": [0.5, 1, -18],
+					"cubes": [
+						{"origin": [-13.5, 1, -22], "size": [27, 0, 4], "uv": [-4, 47]}
+					]
+				},
+				{
+					"name": "carpet1",
+					"parent": "carpet",
+					"pivot": [0, 0.5, 9],
+					"cubes": [
+						{"origin": [-13.5, 0, 9], "size": [27, 1, 10], "uv": [0, 18]}
+					]
+				},
+				{
+					"name": "fringe1",
+					"parent": "carpet1",
+					"pivot": [0.5, 0.75, 19],
+					"cubes": [
+						{"origin": [-13.5, 1, 19], "size": [27, 0, 4], "uv": [-4, 43]}
+					]
+				}
+			]
+		}
+	]
+}

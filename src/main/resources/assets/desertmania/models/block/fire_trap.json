@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "desertmania:block/fire_trap_bottom",
+    "east": "desertmania:block/fire_trap_side",
+    "north": "desertmania:block/fire_trap_side",
+    "particle": "desertmania:block/fire_trap_side",
+    "south": "desertmania:block/fire_trap_side",
+    "up": "desertmania:block/fire_trap_top",
+    "west": "desertmania:block/fire_trap_side"
+  }
+}

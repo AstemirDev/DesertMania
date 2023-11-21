@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "desertmania:golden_scarab_left_part"
+    },
+    {
+      "item": "desertmania:golden_scarab_right_part"
+    }
+  ],
+  "result": {
+    "item": "desertmania:golden_scarab"
+  }
+}

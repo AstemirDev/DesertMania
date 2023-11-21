@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "desertmania:block/brazier_unlit"
+    },
+    "lit=true": {
+      "model": "desertmania:block/brazier_lit"
+    }
+  }
+}

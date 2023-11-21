@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "desertmania:block/loess"
+      },
+      {
+        "model": "desertmania:block/loess_mirrored"
+      },
+      {
+        "model": "desertmania:block/loess",
+        "y": 180
+      },
+      {
+        "model": "desertmania:block/loess_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

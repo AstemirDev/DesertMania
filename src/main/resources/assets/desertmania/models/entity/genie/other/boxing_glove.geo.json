@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "boxingglove",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-10, 16, -10], "size": [20, 10, 16], "uv": [0, 0]},
+						{"origin": [-7, 0, -6], "size": [14, 6, 12], "uv": [0, 48]},
+						{"origin": [-10, 6, -6], "size": [20, 10, 12], "uv": [0, 26]},
+						{"origin": [1, 10, -8], "size": [11, 7, 8], "uv": [52, 48]}
+					]
+				}
+			]
+		}
+	]
+}

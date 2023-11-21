@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "desertmania:block/loess_bricks",
+    "side": "desertmania:block/loess_bricks",
+    "top": "desertmania:block/loess_bricks"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "values": [
+    "desertmania:sun_altar",
+    "desertmania:brazier",
+    "desertmania:loess",
+    "desertmania:chiseled_loess",
+    "desertmania:giant_loess_brick",
+    "desertmania:loess_bricks",
+    "desertmania:loess_bricks_symbols",
+    "desertmania:loess_bricks_stairs",
+    "desertmania:loess_bricks_slab",
+    "desertmania:loess_bricks_wall",
+    "desertmania:cut_loess",
+    "desertmania:cut_loess_stairs",
+    "desertmania:cut_loess_slab",
+    "desertmania:cut_loess_wall",
+    "desertmania:smooth_loess",
+    "desertmania:smooth_loess_stairs",
+    "desertmania:smooth_loess_slab",
+    "desertmania:smooth_loess_wall"
+  ]
+}
